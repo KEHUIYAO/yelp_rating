@@ -1,4 +1,4 @@
-# stat628_module2
+# YELP DATA CHALLENGE !
 
 ## Repsitory structure:
 
